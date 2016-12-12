@@ -1,2 +1,6 @@
 ./assets
 /target/
+
+assets/youtube.apikey
+.settings/org.eclipse.m2e.core.prefs
+.project
