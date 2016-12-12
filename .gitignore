@@ -5,4 +5,4 @@ target/
 .settings/
 .project
 .classpath
-assets/client_secrets.json
+
