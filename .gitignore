@@ -1,6 +1,8 @@
-./assets
-/target/
-
+assets/client_secrets.json
 assets/youtube.apikey
-.settings/org.eclipse.m2e.core.prefs
+target/
+
+.settings/
 .project
+.classpath
+assets/client_secrets.json
